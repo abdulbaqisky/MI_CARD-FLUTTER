@@ -6,7 +6,7 @@ void main() {
       backgroundColor: Colors.green,
       appBar: AppBar(
         title: Text('I am Rich'),
-        backgroundColor: Colors.blueGrey[900],
+        backgroundColor: Colors.darkGreen,
       ),
       body: Center(
         child: Column(
@@ -66,7 +66,7 @@ void main() {
               color: Colors.teal.shade900,
             ),
             title: Text(
-              'adekomiabdulbaqi3@gmail.com',
+              'adekomiabdulbaqiyahoo.com',
               style: TextStyle(
                 color: Colors.teal.shade900,
                 fontFamily: 'Source Sans Pro',
