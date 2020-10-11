@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     home: Scaffold(
-      backgroundColor: Colors.blueGrey,
+      backgroundColor: Colors.green,
       appBar: AppBar(
         title: Text('I am Rich'),
         backgroundColor: Colors.blueGrey[900],
@@ -17,9 +17,9 @@ void main() {
           backgroundImage: AssetImage('images/autumn.jpeg'),
           ),
         Text(
-          'Qisky LA',
+          'Qisky LA CORUNA',
           style: TextStyle(
-            fontSize: 40.0,
+            fontSize: 34.0,
             color: Colors.white,
             fontWeight: FontWeight.bold,
             fontFamily: 'Pacifico',
